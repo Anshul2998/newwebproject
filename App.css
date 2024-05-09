@@ -1,0 +1,11 @@
+button.navbar-toggler:focus,
+button.navbar-toggler:active {
+  outline: none !important; /* Remove outline on focus and active state */
+  box-shadow: none !important; /* Remove box shadow on focus and active state */
+  border: 2px solid rgba(255, 221, 0, 0.939);
+}
+.c-img{
+  height: 400px;
+  object-fit: cover;
+
+}
